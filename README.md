@@ -14,3 +14,7 @@ In this project, I need to implement face-picking via ray-casting, send the deri
 I'm looking to create another Cartoon Face (Our Schools Mascot) and have users find this as an easter egg on the schools website.
 
 I've got the Viewer set up, with the model in .js format. Its displaying, but I'm looking for a way to allow the users to select a vertices and drag them to stretch the model.
+
+Hi DaveBenRoberts, 
+
+I too had this same idea. I want to re-create the SM64 face on the web. Provider a character and be able to manipulate its face just like Super Mario 64. Was just wondering if you ever got anywhere with the idea. I couldn't find another way to contact you so I'm submitting a pull-request. mikeamos@gmail.com 
